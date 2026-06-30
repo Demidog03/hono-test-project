@@ -1,0 +1,1 @@
+ALTER TABLE "authors" ADD COLUMN "name" text NOT NULL;
